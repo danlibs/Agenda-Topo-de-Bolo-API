@@ -1,4 +1,4 @@
-# Cake Toppers Orders API
+# Cake Topper Order Manager API
 This a REST API made with Java and Spring Boost. It implements a system for managing cake toppers orders and has the following dependencies:
  - Spring Web;
  - Spring Data JPA;
