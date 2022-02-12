@@ -12,7 +12,7 @@ public class TopoDeBolo {
     private String valor;
     private LocalDate dataPedido;
     private LocalDate dataEntrega;
-    @ManyToOne
+    @OneToOne
     private Cliente cliente;
 
     public Long getId() {
